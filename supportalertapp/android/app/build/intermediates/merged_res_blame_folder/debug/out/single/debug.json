@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/raw_alarm.mp3.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/raw/alarm.mp3"
+    },
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.alertapp-merged_res-28:/mipmap-xxxhdpi_alert.png.flat",
+        "source": "com.alertapp-main-30:/mipmap-xxxhdpi/alert.png"
+    },
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/krishna/.gradle/daemon/8.0.1/com.alertapp-main-30:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
